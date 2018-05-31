@@ -1,0 +1,8 @@
+
+.vs/Whitenose/v15/.suo
+.vs/Whitenose/v15/Server/sqlite3/storage.ide
+*.ide-shm
+*.ide-wal
+*._
+*.txt
+*.nupkg
